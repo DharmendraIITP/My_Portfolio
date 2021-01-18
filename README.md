@@ -17,7 +17,7 @@
    
    
    
-## [**Project 2: Loan-Predication**](https://github.com/Madhu2511995/Loan-Predication)   
+## [**Project 2: Loan-Predication**](https://github.com/DharmendraIITP/Home_Price)   
    
   * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 columns'**'. 
   * Useing this dataset Predict that a person can get loan or not.
@@ -26,7 +26,7 @@
   * Use Cross Validation for Model Selection, found that the accuracy of the **SVM** is higher than other.
    
 
-## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+## [**Project 3: Heart Disease Predication**](https://github.com/DharmendraIITP/Home_Price)
 
 * The dataset has **'16 row'**, and **'4239 column'**.
 * From the dataset we have to predict the Heart Disease after 10 years.
