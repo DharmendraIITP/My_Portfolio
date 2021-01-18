@@ -1,3 +1,3 @@
 # My_Portfolio
-<dhar.jpg>
+![](images/dhar.jpg)
 # Dharmendra Tiwari
