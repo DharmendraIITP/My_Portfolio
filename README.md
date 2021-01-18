@@ -17,7 +17,7 @@
    
    
    
-## [**Project 2: Loan-Predication**](https://github.com/DharmendraIITP/Loan_Predications)   
+## [**Project 2: Loan-Predication**](https://github.com/DharmendraIITP/Heart_Disease)   
    
   * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 columns'**'. 
   * Useing this dataset Predict that a person can get loan or not.
