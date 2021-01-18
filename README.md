@@ -3,7 +3,7 @@
 # Dharmendra Tiwari
 # Projects
 
-## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
+## [**Project 1: Data Analysis with Pandas**](https://github.com/DharmendraIITP/Data-Analysis)
 
   * Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
   * A fast and efficient DataFrame object for data manipulation with integrated indexing.
