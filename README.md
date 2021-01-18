@@ -1,3 +1,3 @@
 # My_Portfolio
-![](images/dhar.jpg)
+![](Image/dhar.jpg)
 # Dharmendra Tiwari
